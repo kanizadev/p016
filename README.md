@@ -2,6 +2,9 @@
 
 A cute, minimal-yet-polished Flutter fortune wheel with a sage green theme, cute font, glass morphism accents, and a clean “Create Wheel” flow.
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 ## ✨ Features
 - Create Wheel page on start (add, remove, reorder slices)
 - Sage green theme with Baloo 2 rounded font
