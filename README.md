@@ -16,6 +16,8 @@ A cute, minimal-yet-polished Flutter fortune wheel with a sage green theme, cute
 
 ## 📸 Screenshots
 
+<img src="https://raw.githubusercontent.com/kanizadev/p016/refs/heads/main/1.png" hight=446 width=243 /> <img src="https://raw.githubusercontent.com/kanizadev/p016/refs/heads/main/Fortune%20Wheel%20.gif" hight=446 width=243 /> 
+
 ## 🎨 Customization
 - Change theme seed color in `MaterialApp.theme` to tweak the palette.
 - Adjust slice colors via `_sliceColorFor` (HSV based around hue ~110 for sage).
